@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,5 +13,5 @@ I am currently an Associate Economist at [Penn Wharton Budget Model](https://bud
 
 I received my M.A. in Business and Economics from [University of Zurich](https://www.uzh.ch/en.html) and B.A. in Economics from [Peking University](https://english.pku.edu.cn/).
 
-Feel free to contact me at junlei@wharton.upenn.edu!
+Feel free to contact me at [junlei@wharton.upenn.edu](mailto:junlei@wharton.upenn.edu)!
 
