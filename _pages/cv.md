@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A detailed CV can be found [here]("http://junlei-chen.github.io/files/junlei_chen_cv.pdf").
+A detailed CV can be found [here](http://junlei-chen.github.io/files/junlei_chen_cv.pdf).
 
 Education
 ======
