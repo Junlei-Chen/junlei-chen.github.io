@@ -10,7 +10,7 @@ author_profile: true
 ## Working Paper
 
 [Tuition Effects of IDR Plans: Evidence from the Introduction of the PAYE Repayment Plan](http://junlei-chen.github.io/files/idr_tuition_paper.pdf) (with [Kent Smetters](https://bepp.wharton.upenn.edu/profile/smetters/) and [Jesús Villero](https://jesusvillero.com/))
-<details>
+<details open>
 <summary>Abstract</summary>
 <br>
 We study the effects of an increase in the generosity of income-driven repayment (IDR) plans on net tuition (tuition less school-provided financial aid) using policy-induced variation from the introduction of the Pay As You Earn (PAYE) repayment plan in 2012. We estimate future wages and the present value of loan repayment savings based on student SAT score, college, major, gender, race, parents' income, and other attributes. Using a triple difference framework, we find that selective colleges increase their net tuition to capture about $42 for every $100 in potential loan repayment savings; this effect is statistically insignificant and negligible for non-selective colleges. As an application, we estimate that President Biden's proposed SAVE plan would effectively transfer about $23 billion to selective colleges over the next 10-year budget window.
@@ -18,7 +18,7 @@ We study the effects of an increase in the generosity of income-driven repayment
 
 ## Master Thesis
 [Solving Economic Models for Ranges of Economic Parameters Using Deep Learning](http://junlei-chen.github.io/files/junlei_chen_master_thesis.pdf)
-<details>
+<details open>
 <summary>Abstract</summary>
 <br>
 In this thesis, I introduce a method of solving macroeconomic models for entire ranges of economic parameters using deep learning. By constructing a loss function for training the neural network, taking into account the equilibrium conditions (Euler Equation) and other considerations, I apply the method to solve two different models. They feature incomplete markets, idiosyncratic risk, occasionally binding constraint, non-stationary shock process, and asset pricing with non-trivial market-clearing conditions. The reached accuracy demonstrates that the implemented method can compute satisfactory approximations. Furthermore, I present a novel algorithm to calibrate the extended parameters matching with real-world economic indices using gradient descent, which can bring insights to public policy construction, economic decision-making process, etc.
