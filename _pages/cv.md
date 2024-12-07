@@ -16,7 +16,7 @@ Education
 * M.A. in Business and Economics, University of Zurich, 2021
 * B.A. in Economics, Peking University, 2018
 
-Professional experience
+Professional Experience
 ======
 * Oct 2021 - Present: Associate Economist under [Prof. Kent Smetters](https://bepp.wharton.upenn.edu/profile/smetters/)
   * *University of Pennsylvania, [Penn Wharton Budget Model](https://budgetmodel.wharton.upenn.edu/)*
