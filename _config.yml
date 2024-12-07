@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junlei Chen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Junlei Chen"
 description              : &description "Associate Economist at Penn Wharton Budget Model"
