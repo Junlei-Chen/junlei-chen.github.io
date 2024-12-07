@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-[Tuition Effects of IDR Plans: Evidence from the Introduction of the PAYE Repayment Plan](http://junlei-chen.github.io/files/idr_tuition_paper.pdf) (with [Kent Smetters](https://bepp.wharton.upenn.edu/profile/smetters/) and [Jesús Villero](https://jesusvillero.com/))
+[Tuition Effects of IDR Plans: Evidence from the Introduction of the PAYE Repayment Plan](http://junlei-chen.github.io/files/idr_tuition_paper.pdf) (with [Prof. Kent Smetters](https://bepp.wharton.upenn.edu/profile/smetters/) and [Dr. Jesús Villero](https://jesusvillero.com/))
 <details open>
 <summary>Abstract</summary>
 <br>
@@ -17,7 +17,7 @@ We study the effects of an increase in the generosity of income-driven repayment
 </details>
 
 ## Master Thesis
-[Solving Economic Models for Ranges of Economic Parameters Using Deep Learning](http://junlei-chen.github.io/files/junlei_chen_master_thesis.pdf)
+[Solving Economic Models for Ranges of Economic Parameters Using Deep Learning](http://junlei-chen.github.io/files/junlei_chen_master_thesis.pdf) (supervised by [Prof. Felix Kübler](https://www.df.uzh.ch/en/people/professor/kuebler.html) and [Dr. Marlon Azinovic](https://sites.google.com/view/marlonazinovic/home))
 <details open>
 <summary>Abstract</summary>
 <br>
@@ -27,10 +27,10 @@ In this thesis, I introduce a method of solving macroeconomic models for entire 
 ## Policy Reports and Other Works
 
 * [Biden’s SAVE Plan – Distributional Impact Analysis](https://budgetmodel.wharton.upenn.edu/issues/2024/9/25/bidens-save-plan-distributional-impact-analysis)
-    * with [Jesús Villero](https://jesusvillero.com/)
+    * with [Dr. Jesús Villero](https://jesusvillero.com/)
 
 * [Analysis of President Biden’s New Plans for Student Loan Debt Relief – April 2024](https://budgetmodel.wharton.upenn.edu/issues/2024/4/11/biden-student-loan-debt-relief)
-    * with [Jesús Villero](https://jesusvillero.com/)
+    * with [Dr. Jesús Villero](https://jesusvillero.com/)
 
 * [Biden’s New Income-Driven Repayment ("SAVE") Plan: Budgetary Cost Estimate Update](https://budgetmodel.wharton.upenn.edu/issues/2023/7/17/biden-income-driven-repayment-budget-update)
 
@@ -45,7 +45,7 @@ In this thesis, I introduce a method of solving macroeconomic models for entire 
 * [Forgiving Student Loans: Budgetary Costs and Distributional Impact](https://budgetmodel.wharton.upenn.edu/issues/2022/8/23/forgiving-student-loans)
 
 * [Analysis of Carbon Emission Reductions in Build Back America](https://budgetmodel.wharton.upenn.edu/issues/2022/3/28/carbon-emission-reductions-in-build-back-america)
-    * with [Jon Huntley](http://budgetmodel.wharton.upenn.edu/experts/jon-huntley)
+    * with [Dr. Jon Huntley](http://budgetmodel.wharton.upenn.edu/experts/jon-huntley)
 
 * [Medicare Advantage Auto-Enrollment](https://budgetmodel.wharton.upenn.edu/issues/2022/3/7/medicare-advantage-auto-enrollment)
-    * with [Yan He](https://yanhe8.github.io/) and [Felix Reichling](https://sites.google.com/view/felixr/)
+    * with [Yan He](https://yanhe8.github.io/) and [Dr. Felix Reichling](https://sites.google.com/view/felixr/)
