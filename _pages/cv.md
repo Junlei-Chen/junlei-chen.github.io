@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Experience"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+A detailed CV can be found [here]('http://junlei-chen.github.io/files/junlei_chen_cv.pdf').
 
 Education
 ======
@@ -44,4 +46,4 @@ combined with Natural Language Toolkit (NLTK) libraries to filter founder names
   * Used Excel VBA to accelerate the process of collecting webpage data and information by 200%
   * Industrial report data collection and analysis
 
-A detailed CV can be found [here]('http://junlei-chen.github.io/files/junlei_chen_cv.pdf').
+
