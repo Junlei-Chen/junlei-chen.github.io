@@ -13,8 +13,8 @@ A detailed CV can be found [here](http://junlei-chen.github.io/files/junlei_chen
 
 Education
 ======
-* M.A. in Business and Economics, University of Zurich, 2021
-* B.A. in Economics, Peking University, 2018
+* Master of Arts UZH in Business and Economics, University of Zurich, 2021
+* Bachelor of Economics, Peking University, 2018
 
 Professional Experience
 ======
