@@ -20,8 +20,7 @@ Professional Experience
 ======
 * Oct 2021 - Present: Associate Economist under [Prof. Kent Smetters](https://bepp.wharton.upenn.edu/profile/smetters/)
   * *University of Pennsylvania, [Penn Wharton Budget Model](https://budgetmodel.wharton.upenn.edu/)*
-  * Conducted applied econometrics research on causal effects of the college tuition response to increased generosity
-of the public policy on student financial aid
+  * Conducted applied economics research on the causal effects of the college tuition response to the increase in the federal student aid introduced by a reform of the student loan repayment options
   * Conducted public policy analysis on various topics, including [Federal Student Loan reforms](https://budgetmodel.wharton.upenn.edu/issues/category/Education), [U.S. healthcare
 system reforms](https://budgetmodel.wharton.upenn.edu/issues/2022/3/7/medicare-advantage-auto-enrollment), [Build Back Better Act climate reforms](https://budgetmodel.wharton.upenn.edu/issues/2022/3/28/carbon-emission-reductions-in-build-back-america)
   * Published 10+ briefs on budgetary cost and distributional effects of U.S. Student Loan Forgiveness, Income-
