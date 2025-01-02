@@ -17,7 +17,7 @@ We study the effects of an increase in the generosity of income-driven repayment
 </details>
 
 ## Master Thesis
-<a href="http://junlei-chen.github.io/files/junlei_chen_master_thesis.pdf" style="color: #990000; text-decoration: none;">Solving Economic Models for Ranges of Economic Parameters Using Deep Learning</a> (supervised by <a href="https://www.df.uzh.ch/en/people/professor/kuebler.html" style="color: #011F5B; text-decoration: none;">Prof. Felix Kübler</a> and <a href="https://sites.google.com/view/marlonazinovic/home" style="color: #011F5B; text-decoration: none;">Dr. Marlon Azinovic</a>)
+<a href="http://junlei-chen.github.io/files/junlei_chen_master_thesis.pdf" style="color: #990000; text-decoration: none;">Solving Economic Models for Ranges of Economic Parameters Using Deep Learning</a> (supervised by <a href="https://www.df.uzh.ch/en/people/professor/kuebler.html" style="color: #011F5B; text-decoration: none;">Prof. Felix Kübler</a> and <a href="https://sites.google.com/view/marlonazinovic/home" style="color: #011F5B; text-decoration: none;">Prof. Marlon Azinović</a>)
 <details>
 <summary>Abstract</summary>
 <br>
