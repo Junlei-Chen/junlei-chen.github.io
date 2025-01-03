@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A detailed CV can be found <a href="http://junlei-chen.github.io/files/junlei_chen_cv.pdf" style="color: #011F5B; text-decoration: none;">here</a>.
+A detailed CV can be found <a href="http://junlei-chen.github.io/files/cv_junlei_chen.pdf" style="color: #011F5B; text-decoration: none;">here</a>.
 
 Education
 ======
