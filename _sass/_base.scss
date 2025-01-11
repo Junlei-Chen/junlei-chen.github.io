@@ -26,7 +26,7 @@ body {
   padding-left: 1.5rem;
   font-size: 0.7rem;
   padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-bottom: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -320,4 +320,29 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+.flxV { // vertical flex inside each project
+  padding-bottom:  0.2rem;
+  display:         flex;
+  flex:            1;
+  flex-direction:  column;
+  justify-content: top;
+  //background-color: cyan;
+}
+
+.flxH { // optional row flex inside of each project's row
+  padding-block:   0.5rem;
+  display:         flex;
+  flex:            1;
+  gap:             1rem;
+  flex-direction:  row;
+  justify-content: space-between;
+  align-items:     top;
+  //background-color: pink;
+}
+
+.flxH > * { // makes each column the same width
+  flex-basis:  100%;
+  flex-shrink: 100%;
 }
