@@ -15,5 +15,5 @@ Coming from a financially/educationally way less developed city Xi'an, the 4 yea
 
 <div class=imageWCaption>
   <img src="/images/junlei_web_photo/beijing/jc_beijing01.jpg" alt="jc_beijing01.jpg">
-  @Jingshan Park
+  <div class=test>@Jingshan Park</div>
 </div>
