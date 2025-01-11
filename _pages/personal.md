@@ -49,7 +49,7 @@ I truly enjoyed the three years I spent in Zürich, where I formed lifelong frie
 
 <div>
   <img src="/images/junlei_web_photo/europe/jc_switzerland03.jpg" alt="jc_switzerland03.jpg">
-  <div class=test2>@Proudly showing off my Shaanxi noodles making skills, Zürich, Switzerland</div>
+  <div class=test2>@Proudly showing off my Shaanxi noodle-making skills, Zürich, Switzerland</div>
 </div>
 
 <div>
