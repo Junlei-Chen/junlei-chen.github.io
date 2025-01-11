@@ -7,25 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-I was born and raised in Xi'an, Shaanxi, China until 18 years old and then moved to Beijing for my undergraduate study at Peking University for four years. In 2018, I came to Zurich, Switzerland for my Master's degree at University of Zurich and lived there for 3 years. Since 2021, I live and work in Philadelphia, U.S. for my current job at Penn Wharton Budget Model.
+I was born and raised in Xi'an, Shaanxi, China and lived there for 18 years. I moved to Beijing for my undergraduate study at Peking University. In 2018, I came to Zürich, Switzerland for my Master's degree at University of Zurich and lived there for three years and enjoyed my time there a lot. Since 2021, I have been living and woking in Philadelphia, U.S. for my current job at the University of Pennsylvania.
 
 ## Beijing
 
-Coming from a financially/educationally way less developed city Xi'an, the 4 years spent in Beijing at Peking University was academically tough but also intellectually rewarding. 
+Coming from China's historic capital Xi'an, a comparatively less developed place in modern China, the four years spent in Beijing at Peking University were academically tough but also intellectually rewarding. 
 
 <div>
   <img src="/images/junlei_web_photo/beijing/jc_beijing01.jpg" alt="jc_beijing01.jpg">
-  <div class=test2>@Jingshan Park, Beijing, China</div>
-</div>
-
-<div>
-  <img src="/images/junlei_web_photo/beijing/jc_beijing02.jpg" alt="jc_beijing02.jpg">
-  <div class=test2>@Boya Tower at Peking University, Beijing, China</div>
+  <div class=test2>@Forbidden City view from Jingshan Park, Beijing, China</div>
 </div>
 
 ## Switzerland
 
-I truly enjoyed the three years I spent in Zürich, where I formed lifelong friendships with people from all over the world, broadened my perspective by living abroad for the first time, and even met my husband <a href="https://axboehm.com/" style="color: #990000; text-decoration: none;">Alexander Boehm</a> who is from Germany :D. Being a foreigner in a country where you do not understand the language fully is not easy, but luckily I met so many warm-hearted people there who are genuine and always willing to help!
+I truly enjoyed the three years I spent in Zürich, where I formed lifelong friendships with people from all over the world, broadened my perspective by living abroad for the first time, and even met my husband <a href="https://axboehm.com/" style="color: #990000; text-decoration: none;">Alexander Boehm</a> who is from Germany :D. Being a foreigner in a country where you do not completely understand the language is not easy, but luckily I met so many warm-hearted people there who were (and still are!) very genuine and always willing to help!
 
 <div>
   <img src="/images/junlei_web_photo/europe/jc_switzerland04.JPG" alt="jc_switzerland04.jpg">
@@ -59,7 +54,7 @@ I truly enjoyed the three years I spent in Zürich, where I formed lifelong frie
 
 ## Places visited around the Europe
 
-While being a "liquidity-constrained" student who is still acumulating my human capital, I still try to visit as many other places in Europe as possible.
+While being a "liquidity-constrained" student, who is still accumulating human capital, I still tried to visit as many other places in Europe as possible.
 
 <div>
   <img src="/images/junlei_web_photo/europe/jc_tuscany.jpg" alt="jc_tuscany.jpg">
@@ -77,4 +72,7 @@ While being a "liquidity-constrained" student who is still acumulating my human 
 </div>
 
 ## United States
+
+I came to work in Philly, US in 2021.
+I am very cute, please take me! ;D 
 
