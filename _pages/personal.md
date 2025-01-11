@@ -27,20 +27,20 @@ I truly enjoyed the three years I spent in Zürich, where I formed lifelong frie
   <div class=test2>@One random sunset at Zürisee, Zürich, Switzerland</div>
 </div>
 
-<div>
+<!-- <div>
   <img src="/images/junlei_web_photo/europe/jc_switzerland06.JPG" alt="jc_switzerland06.jpg">
   <div class=test2>@Wedding day by the Zürisee, some mountain in the alps, Switzerland</div>
-</div>
+</div> -->
 
 <div>
   <img src="/images/junlei_web_photo/europe/jc_switzerland01.jpg" alt="jc_switzerland01.jpg">
   <div class=test2>@Hiking with the Swiss natives XD, some mountain in the alps, Switzerland</div>
 </div>
 
-<div>
+<!-- <div>
   <img src="/images/junlei_web_photo/europe/jc_switzerland02.jpg" alt="jc_switzerland02.jpg">
   <div class=test2>@WG life (cooking, eating, studying, laughing, crying with 8 roommates), Zürich, Switzerland</div>
-</div>
+</div> -->
 
 <div>
   <img src="/images/junlei_web_photo/europe/jc_switzerland03.jpg" alt="jc_switzerland03.jpg">
@@ -61,10 +61,10 @@ While being a "liquidity-constrained" student, who is still accumulating human c
   <div class=test2>@Tuscany, Italy</div>
 </div>
 
-<div>
+<!-- <div>
   <img src="/images/junlei_web_photo/europe/jc_prague.jpg" alt="jc_prague.jpg">
   <div class=test2>@Prague, Czech Republic</div>
-</div>
+</div> -->
 
 <div>
   <img src="/images/junlei_web_photo/europe/jc_konstanz.jpg" alt="jc_konstanz.jpg">
@@ -74,5 +74,4 @@ While being a "liquidity-constrained" student, who is still accumulating human c
 ## United States
 
 I came to work in Philly, US in 2021.
-I am very cute, please take me! ;D 
 
