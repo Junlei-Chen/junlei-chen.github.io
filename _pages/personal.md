@@ -13,8 +13,9 @@ I was born and raised in Xi'an, Shaanxi, China until 18 years old and then moved
 
 Coming from a financially/educationally way less developed city Xi'an, the 4 years spent in Beijing at Peking University was academically tough but also intellectually rewarding. 
 
-<div class=imageWCaption>
+<div class=imgg>
   <img src="/images/junlei_web_photo/beijing/jc_beijing01.jpg" alt="jc_beijing01.jpg">
   <div class=test2>@Jingshan Park</div>
-  <div style="color=green;">@Jingshan Park</div>
+  <div class=test>@Jingshan Park</div>
+  <div style="color=#FF0900;">@Jingshan Park</div>
 </div>
