@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I was born and raised in Xi'an, Shaanxi, China and lived there for 18 years. I moved to Beijing for my undergraduate study at Peking University. In 2018, I came to Zürich, Switzerland for my Master's degree at University of Zurich and lived there for three years, I enjoyed my time there a lot. Since 2021, I have been living and woking in Philadelphia, U.S. for my current job at the University of Pennsylvania.
+I was born and raised in Xi'an, Shaanxi, China and lived there for 18 years. I moved to Beijing for my undergraduate study at Peking University. In 2018, I came to Zürich, Switzerland for my Master's degree at University of Zurich and lived there for three years, I enjoyed my time there a lot. Since 2021, I have been living and woking in Philadelphia, U.S. for my current job at the University of Pennsylvania. 
 
 ## China
 
